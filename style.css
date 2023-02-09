@@ -5,7 +5,7 @@ body{
     min-height: 100vh;
     background-color: #000666;
     overflow: hidden;
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 .giftcontainer{
     position: relative;
